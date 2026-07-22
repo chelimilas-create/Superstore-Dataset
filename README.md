@@ -58,7 +58,7 @@ Rows : 10000 approximately
 
 #DASHBOARD : https://docs.google.com/spreadsheets/d/1T5ASaSo_4ILlxhYViVh0nt1-NwDb5OCc/edit?usp=sharing&ouid=114041052825347382033&rtpof=true&sd=true
 
-Business Insights:
+# Business Insights:
 
 Which region is most profitable? 
 
@@ -76,7 +76,7 @@ Which category drives the most revenue?
 
 A.TECHNOLOGY
 
-BUSINESS RECOMMENDATION
+# BUSINESS RECOMMENDATION
 
 1.Apply Successful business strategies from the west region to improve sales.
 
